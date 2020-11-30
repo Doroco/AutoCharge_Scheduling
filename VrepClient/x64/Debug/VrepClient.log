@@ -1,0 +1,5 @@
+﻿  extApi.c
+  extApiPlatform.c
+C:\Dionysource\VrepClient\VrepClient\extApi.c(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'extApiInternal.h': No such file or directory
+  코드를 생성하고 있습니다...
+C:\Dionysource\VrepClient\VrepClient\extApiPlatform.c(6,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'shared_memory.h': No such file or directory

@@ -1,0 +1,45 @@
+﻿  VrepClient.cpp
+C:\Dionysource\VrepClient\VrepClient\Linetracer.h(78,32): warning C4042: 'a': 스토리지 클래스가 잘못되었습니다.
+C:\Dionysource\VrepClient\VrepClient\Linetracer.h(78,47): warning C4042: 'b': 스토리지 클래스가 잘못되었습니다.
+C:\Dionysource\VrepClient\VrepClient\Linetracer.h(83,31): warning C4042: 'a': 스토리지 클래스가 잘못되었습니다.
+C:\Dionysource\VrepClient\VrepClient\Linetracer.h(83,46): warning C4042: 'b': 스토리지 클래스가 잘못되었습니다.
+C:\Dionysource\VrepClient\VrepClient\Linetracer.h(95,32): warning C4244: '=': 'unsigned __int64'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\Linetracer.h(96,32): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\Linetracer.h(130,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\Linetracer.h(135,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(529,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(537,72): warning C4244: '인수': 'double'에서 'simxFloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(538,73): warning C4244: '인수': 'double'에서 'simxFloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(582,86): warning C4244: '인수': 'double'에서 'simxFloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(613,87): warning C4244: '인수': 'double'에서 'simxFloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(647,95): warning C4244: '인수': 'double'에서 'simxFloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(648,95): warning C4244: '인수': 'double'에서 'simxFloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(694,36): warning C4244: '=': 'int'에서 'simxFloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(706,96): warning C4305: '인수': 'double'에서 'simxFloat'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(707,97): warning C4305: '인수': 'double'에서 'simxFloat'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(708,95): warning C4305: '인수': 'double'에서 'simxFloat'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(709,96): warning C4305: '인수': 'double'에서 'simxFloat'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(711,36): warning C4244: '=': 'int'에서 'simxFloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(874,100): warning C4305: '인수': 'double'에서 'simxFloat'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(875,102): warning C4305: '인수': 'double'에서 'simxFloat'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(876,101): warning C4305: '인수': 'double'에서 'simxFloat'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(877,102): warning C4305: '인수': 'double'에서 'simxFloat'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(896,28): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(916,28): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(983,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(1009,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'std::string'입니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(1140,118): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(1168,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(1192,130): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(1213,128): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(1225,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(1230,26): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(1239,26): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Dionysource\VrepClient\VrepClient\VrepClient.cpp(1255,6): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+     C:\Dionysource\VrepClient\x64\Release\VrepClient.lib 라이브러리 및 C:\Dionysource\VrepClient\x64\Release\VrepClient.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  35 of 874 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  VrepClient.vcxproj -> C:\Dionysource\VrepClient\x64\Release\VrepClient.exe

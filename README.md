@@ -8,8 +8,6 @@
 - System Architecture
 - Hardware Architecture
 - 구현내용
-- Project Secenarios
-- Reference
 
 
 ### System Architecure
